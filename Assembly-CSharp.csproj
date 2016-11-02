@@ -45,8 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GroundMove.cs" />
-     <Compile Include="Assets\movementController.cs" />
+     <Compile Include="Assets\Scripts\GroundMove.cs" />
+     <Compile Include="Assets\Scripts\gameManager.cs" />
+     <Compile Include="Assets\Scripts\groundScrollController.cs" />
+     <Compile Include="Assets\Scripts\movementController.cs" />
+     <None Include="Assets\8-bit 8Pack\readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
